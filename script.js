@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const feedbackMessage = document.getElementById("feedback-message");
 
     let correctAnswer = "";
+    
 
 
     //start of game
